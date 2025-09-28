@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { motion, AnimatePresence } from 'motion/react'
+import { motion, AnimatePresence } from 'framer-motion'
 import { Play, Pause, Trash2, GripVertical } from 'lucide-react'
 
 interface Timer {
