@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { motion, PanInfo, useMotionValue, useTransform } from 'motion/react'
+import { motion, PanInfo, useMotionValue, useTransform } from 'framer-motion'
 import { X, Play, Pause } from 'lucide-react'
 
 interface ActiveTimer {
